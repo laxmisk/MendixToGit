@@ -1,0 +1,14 @@
+Buildfile: D:\UserData\z00474te\Documents\Mendix\AzurePOC-ResourceManagerChanges\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 105 source files to D:\UserData\z00474te\Documents\Mendix\AzurePOC-ResourceManagerChanges\deployment\run\bin
+    [javac] Note: D:\UserData\z00474te\Documents\Mendix\AzurePOC-ResourceManagerChanges\javasource\system\UserActionsRegistrar.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+
+package:
+      [jar] Building jar: D:\UserData\z00474te\Documents\Mendix\AzurePOC-ResourceManagerChanges\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+
+

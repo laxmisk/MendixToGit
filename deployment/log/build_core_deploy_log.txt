@@ -1,0 +1,9 @@
+Buildfile: D:\UserData\z00474te\Documents\Mendix\AzurePOC-ResourceManagerChanges\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 51 files to D:\UserData\z00474te\Documents\Mendix\AzurePOC-ResourceManagerChanges\deployment
+     [copy] Copying 5 files to D:\UserData\z00474te\Documents\Mendix\AzurePOC-ResourceManagerChanges\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+

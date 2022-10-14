@@ -1,0 +1,25 @@
+{
+  "Configuration": {
+    "DatabaseName": "default",
+    "DatabasePassword": "",
+    "DatabaseType": "HSQLDB",
+    "DatabaseHost": "",
+    "DatabaseUserName": "",
+    "DatabaseUseIntegratedSecurity": "False",
+    "ApplicationRootUrl": "http://localhost:8085/",
+    "ScheduledEventExecution": "None"
+  },
+  "Constants": {
+    "AzureExtensionModule.JsonContent": "application/json",
+    "AzureExtensionModule.SharepointURL": "'https://siemens.sharepoint.com/teams/NewProductIntroduction/_api/web/lists/GetByTitle(''BSCMendixIndia'')/items'",
+    "AzureExtensionModule.SharePointClientId": "095d2feb-a43f-43f6-82c7-c47711ffd562",
+    "AzureExtensionModule.SharePointClientSecret": "NjLQfWvX3cDbSeJQiA6dj4ycazZJhFqtCSjVRslQbSU=",
+    "AzureExtensionModule.AzureURL": "https://dev.azure.com/siemens-energy-playground/Infrastructure/_apis/wit/workitemsbatch?api-version=6.0",
+    "AzureExtensionModule.AzureURL_MakeReadOnly": "https://dev.azure.com/siemens-energy-playground/_apis/work/processes/9f6a3d4e-abf6-4fec-a3d9-892856f4ba4b/workItemTypes/Agile_with_LEAN.ProductRelease/rules/d8597b55-7183-47c3-a076-8dcc6d00f5cb?api-version=6.0-preview.2",
+    "AzureExtensionModule.SharePoint_Update_URL": "https://siemens.sharepoint.com/teams/NewProductIntroduction/_api/web/Lists/GetByTitle(''BSCMendixIndia'')/items/getbyid('+ $sharePointVal/_Id +')",
+    "AzureExtensionModule.AzureToken": "Basic OnlzNm1rdW9jdHRiN21na2p3cm53YzdiY3hxeXRlN2t5dnp5Mzc1ZXZ1ZDRnMzRuempyc2E=",
+    "NanoflowCommons.Nanoflow_Commons_Version": "2.1.0",
+    "WebActions.WebActions_Version": "2.4.0"
+  },
+  "AdminPassword": "1"
+}
